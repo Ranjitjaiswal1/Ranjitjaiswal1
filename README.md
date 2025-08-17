@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ranjitjaiswal123
-- 👀 I’m interested in ... python,java,c++,go
-- 🌱 I’m currently learning ...C#
-- 💞️ I’m looking to collaborate on ... intership with Microsoft 
+- 👀 I’m interested in ... python,java,c++,javascipt,cpp
+- 🌱 I’m currently learning ...java
+- 💞️ I’m looking to collaborate on ... intership with Microsoft  & GOOGLE
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
