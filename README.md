@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ranjitjaiswal123
-- 👀 I’m interested in ... python,java,c++,javascipt,cpp
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ... intership with Microsoft  & GOOGLE
-- 📫 How to reach me ...
+- 👀 I’m interested in ... web development,c++,javascipt,cpp
+- 🌱 I’m currently learning ...dsa with cpp
+- 💞️ I’m looking to collaborate on ... intership with  Google, Maq Software, any mnc company 
+- 📫 How to reach me ...Email : ranjitjaiswal321@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
