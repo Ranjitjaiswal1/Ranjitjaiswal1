@@ -1,12 +1,68 @@
-- 👋 Hi, I’m @Ranjitjaiswal123
-- 👀 I’m interested in ... web development,c++,javascipt,cpp
-- 🌱 I’m currently learning ...dsa with cpp
-- 💞️ I’m looking to collaborate on ... intership with  Google, Maq Software, any mnc company 
-- 📫 How to reach me ...Email : ranjitjaiswal321@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Ranjit Kumar Jaiswal 👋
 
-<!---
-Ranjitjaiswal1/Ranjitjaiswal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Aspiring Software Developer | B.Tech IT Student
+
+I'm an Information Technology student passionate about software development, web technologies, and problem-solving. I enjoy building practical applications, learning new technologies, and turning ideas into useful digital solutions.
+
+- 🎓 Pursuing B.Tech in Information Technology at IIIT Sonipat
+- 💻 Interested in Software Development Engineering and Full-Stack Development
+- 🌱 Learning and improving my skills in React.js, JavaScript, Node.js, and Data Structures & Algorithms
+- 🚀 Building practical web development projects
+- 🎯 Goal: Become a skilled Software Development Engineer
+- 🤝 Open to learning, collaboration, and software development opportunities
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C, C++, JavaScript, Python
+
+**Frontend**
+- HTML5, CSS3, React.js, Tailwind CSS
+
+**Backend**
+- Node.js, Express.js, REST APIs
+
+**Databases**
+- MongoDB, MySQL, SQL
+
+**Tools**
+- Git, GitHub, VS Code, npm, Vite
+
+## 🚀 Featured Projects
+
+### 1. Vaididea.in
+A healthcare technology platform project exploring digital healthcare services and technology-driven solutions.
+
+- Website: https://vaididea.in
+- Focus: Healthcare technology and digital product development
+
+### 2. Student Marketplace
+A React-based marketplace project focused on product browsing and shopping interfaces.
+
+- Technologies: React.js, Vite, Tailwind CSS, React Router
+- Features explored: Product listings, cart and checkout interfaces, admin product management
+
+### 3. Mahakal Household Items
+A responsive business website designed to showcase household products and provide business contact information.
+
+- Technologies: HTML, CSS, JavaScript
+- Features: Product gallery, responsive navigation, contact links, and location information
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Full-Stack Web Development
+- Backend Development and REST APIs
+- Database Management Systems
+- Software Engineering Fundamentals
+
+## 🤝 Let's Connect
+
+- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- Portfolio: [My Portfolio Website](YOUR_PORTFOLIO_URL)
+- Email: YOUR_PROFESSIONAL_EMAIL
+
+---
+
+*Learn continuously. Build thoughtfully. Improve consistently.*
