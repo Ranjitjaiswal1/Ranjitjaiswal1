@@ -1,5 +1,5 @@
 # Hi, I'm Ranjit Kumar Jaiswal 👋
-
+        
 ### Aspiring Software Developer | B.Tech IT Student
 
 I'm an Information Technology student passionate about software development, web technologies, and problem-solving. I enjoy building practical applications, learning new technologies, and turning ideas into useful digital solutions.
@@ -17,16 +17,16 @@ I'm an Information Technology student passionate about software development, web
 - C, C++, JavaScript, Python
 
 **Frontend**
-- HTML5, CSS3, React.js, Tailwind CSS
+- HTML5, CSS3, React.js, Tailwind CSS,React
 
 **Backend**
-- Node.js, Express.js, REST APIs
+- Node.js, Express.js
 
 **Databases**
-- MongoDB, MySQL, SQL
+- MongoDB, MySQL, SQL,pytorch
 
 **Tools**
-- Git, GitHub, VS Code, npm, Vite
+- Git, GitHub, VS Code
 
 ## 🚀 Featured Projects
 
@@ -53,15 +53,17 @@ A responsive business website designed to showcase household products and provid
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Full-Stack Web Development
-- Backend Development and REST APIs
 - Database Management Systems
 - Software Engineering Fundamentals
+- Manual Testing
+- QA Testing
+- frontend devloper
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- LinkedIn: [My LinkedIn Profile](linkedin.com/in/ranjit-kumar-jaiswal-091797325)
 - Portfolio: [My Portfolio Website](YOUR_PORTFOLIO_URL)
-- Email: YOUR_PROFESSIONAL_EMAIL
+- Email: ranjitjaiswal321@gmail.com
 
 ---
 
