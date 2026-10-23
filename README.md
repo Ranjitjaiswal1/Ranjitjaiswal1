@@ -14,7 +14,7 @@ I'm an Information Technology student passionate about software development, web
 ## 🛠️ Tech Stack
 
 **Languages**
-- C, C++, JavaScript, Python
+- C, C++, JavaScript, Python,java
 
 **Frontend**
 - HTML5, CSS3, React.js, Tailwind CSS,React
